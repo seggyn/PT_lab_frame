@@ -16,6 +16,6 @@ tpl = template(data.path.output)
 # WRITE YOU SCRIPT HERE
 # BEGIN USER`S SCRIPTS
 
-from scripts.SimpleChoice import SimpleChoice
+from scripts.Script import Script
 
 # END USER`S SCRIPTS
