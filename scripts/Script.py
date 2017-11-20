@@ -1,1 +1,3 @@
-# YOUR CODE
+class Script:
+  # YOUR CODE
+  pass
