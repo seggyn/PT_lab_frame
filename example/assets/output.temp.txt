@@ -1,0 +1,11 @@
+﻿Генеральна вибірка: {GeneralSet}
+Проста вибірка: {SimpleChoice}
+
+Варіаційний ряд для простої вибірки
+{SimpleVarRow}
+
+Вибіркове середнє: {sAvarage}
+Дисперсія: {sDispersion}
+Середньоквадратичне відхилення: {sSDeviation}
+Мода: {sMode}
+Медіана: {sMedian}
